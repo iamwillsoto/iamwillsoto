@@ -27,6 +27,12 @@ This GitHub serves as a hands-on portfolio of production-style Cloud and DevOps 
 - Automated infrastructure deployment and validation
 - Git-based promotion and review workflows
 
+### AI & Platform Integrations
+- Amazon Bedrock (managed model invocation)
+- Event-driven AI workflows using Lambda and Step Functions
+- Prompt deployment and promotion as infrastructure
+- AI integrations embedded into CI/CD and cloud platforms
+
 ### Containers & Platforms
 - Docker (containerized workloads and pipelines)
 - Kubernetes fundamentals (deployments, services, configuration patterns)
