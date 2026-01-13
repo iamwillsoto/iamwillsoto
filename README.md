@@ -1,41 +1,46 @@
-# Will Soto — Cloud DevOps Engineer ☁️
+# Will Soto — Cloud DevOps Engineer (AWS)
 
-Cloud DevOps Engineer focused on building **production-grade AWS infrastructure**, event-driven systems, and CI/CD pipelines that mirror real-world operating environments.  
-My work emphasizes **environment isolation (beta → prod)**, **Infrastructure as Code**, and **secure, observable cloud platforms**.
+Cloud DevOps Engineer focused on designing, automating, and operating reliable AWS infrastructure using Infrastructure as Code and CI/CD. My work centers on event-driven architectures, environment isolation, and production-ready automation that reflects how real platform teams operate.
 
----
-
-## What I Do
-
-- Design and deploy **AWS-native architectures** using Terraform
-- Build **event-driven pipelines** with Lambda, S3, and Step Functions
-- Implement **CI/CD promotion workflows** (PR → Beta, Merge → Prod)
-- Apply **least-privilege IAM** and security-first design
-- Operate systems with **logging, retries, and failure awareness**
-
-This GitHub contains hands-on implementations — not toy examples — with documentation and architectural context for each project.
+I build systems to be reproducible, observable, and secure — with clear promotion paths from development to production.
 
 ---
 
-## Core Skills
+## About
 
-**Cloud & Infrastructure**
-- AWS: IAM, VPC, EC2, S3, Lambda, Step Functions, CloudWatch, ALB/ASG, RDS, DynamoDB
-- Infrastructure as Code: Terraform, CloudFormation
+I work primarily in AWS, designing and deploying cloud infrastructure with Terraform, serverless services, and CI/CD pipelines that enforce safe change management. My projects emphasize architectural clarity, least-privilege security, and operational reliability rather than one-off demos.
 
-**DevOps & Automation**
-- CI/CD: GitHub Actions (environment promotion, validation gates)
-- Event-driven architectures & serverless workflows
-- Linux, Bash, Python, Git
+This GitHub serves as a hands-on portfolio of production-style Cloud and DevOps implementations, each supported by documentation and architectural context.
 
-**Containers & Platforms**
-- Docker (containerization fundamentals)
-- Kubernetes (core concepts: deployments, services, configuration)
+---
 
-**Observability & Security**
-- CloudWatch logs & metrics
-- Splunk fundamentals (log ingestion, search, analysis)
-- IAM policy design, scoped permissions, Security+ mindset
+## Technical Skills
+
+### Cloud & Infrastructure
+- **AWS:** IAM, VPC, EC2, S3, Lambda, Step Functions, ALB/ASG, RDS, DynamoDB, CloudWatch
+- **Infrastructure as Code:** Terraform, CloudFormation
+- Multi-environment design and promotion (beta → prod)
+
+### DevOps & Automation
+- CI/CD pipelines with GitHub Actions
+- Event-driven and serverless workflows
+- Automated infrastructure deployment and validation
+- Git-based promotion and review workflows
+
+### Containers & Platforms
+- Docker (containerized workloads and pipelines)
+- Kubernetes fundamentals (deployments, services, configuration patterns)
+
+### Security & Observability
+- Least-privilege IAM policy design
+- Secure S3 access patterns and scoped permissions
+- CloudWatch logging and metrics
+- Splunk fundamentals for log ingestion and analysis
+
+### Systems & Tooling
+- Linux systems administration
+- Bash and Python automation
+- Git and collaborative workflows
 
 ---
 
@@ -47,32 +52,31 @@ This GitHub contains hands-on implementations — not toy examples — with docu
 
 ---
 
-## Projects & Writing
+## Portfolio & Documentation
 
-Each repository on this profile represents a **real-world cloud pattern** (not just syntax demos).  
-Design decisions, tradeoffs, and diagrams are documented alongside the code.
+The repositories on this profile demonstrate real-world cloud and DevOps patterns, including:
 
-📖 Long-form technical write-ups:  
-**https://medium.com/@wilmeralberto**
+- Terraform-managed AWS infrastructure
+- Event-driven serverless pipelines
+- CI/CD-enforced environment promotion
+- Secure IAM and operational guardrails
+
+Each project includes clear documentation, architectural reasoning, and validation artifacts.
+
+📘 Long-form technical write-ups and diagrams are published on Medium:  
+https://medium.com/@wilmeralberto
 
 ---
 
-## How to Navigate This GitHub
+## Current Focus
 
-- Browse repositories to see **end-to-end cloud systems**
-- Each project includes:
-  - Architecture overview
-  - Terraform/IaC implementation
-  - CI/CD behavior
-  - Validation screenshots or logs
-- Repos are intentionally scoped to reflect **production constraints**
+- Building production-ready AWS platforms
+- Strengthening CI/CD promotion discipline
+- Expanding container and orchestration workflows
+- Deepening operational reliability and cloud security practices
 
 ---
 
 ## Connect
 
 - LinkedIn: https://www.linkedin.com/in/wilmeralberto
-
----
-
-> I’m building toward Cloud DevOps / Platform Engineering roles where reliability, automation, and security are treated as first-class concerns.
