@@ -26,7 +26,7 @@ GitHub Actions · CI/CD promotion gates · Event-driven/serverless workflows · 
 Docker · Kubernetes fundamentals (deployments, services, configuration patterns)
 
 **Security, Observability & AI Integration**  
-Least-privilege IAM · Secure S3 access patterns · CloudWatch logging/metrics · Splunk fundamentals ·  
+Least-privilege IAM · Secure S3 access patterns · CloudWatch logging/metrics · Splunk ·  
 Amazon Bedrock integration (managed model invocation, event-driven AI workflows)
 
 ---
