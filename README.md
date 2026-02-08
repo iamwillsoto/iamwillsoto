@@ -1,6 +1,6 @@
-# Will Soto — Cloud Engineer (AWS)
+# Will Soto — Cloud DevOps Engineer (AWS)
 
-Cloud Engineer building reliable, production-ready AWS infrastructure with Infrastructure as Code and CI/CD. My work focuses on event-driven architectures, environment isolation (beta → prod), and secure automation that reflects real platform team workflows.
+Cloud DevOps Engineer building reliable, production-ready AWS infrastructure with Infrastructure as Code and CI/CD. My work focuses on event-driven architectures, environment isolation (beta → prod), and secure automation that reflects real platform team workflows.
 
 I design systems to be reproducible, observable, and operationally sound.
 
