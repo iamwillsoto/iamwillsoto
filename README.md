@@ -13,29 +13,32 @@ I design and operate cloud platforms using Terraform, serverless services, conta
 
 My engineering approach is cloud-agnostic, grounded in platform fundamentals such as identity-first access, network isolation, automated provisioning, and operational observability. These principles are applied consistently across AWS and Azure environments.
 
-This GitHub serves as a hands-on portfolio of production-style Cloud and DevOps implementations, each supported by architectural documentation and operational context.
+This GitHub serves as a hands-on portfolio of production-style Cloud and DevOps implementations, supported by technical documentation and architectural context.
 
 ---
 
 ## Technical Skills
 
-**Cloud & Infrastructure**  
+### Cloud Platforms
 **AWS:** IAM, VPC, EC2, S3, Lambda, Step Functions, ALB/ASG, RDS, DynamoDB, CloudWatch  
 **Azure:** Entra ID, Virtual Networks, Virtual Machines, Storage Accounts, App Services, Azure Monitor  
-Terraform · CloudFormation · Identity & access design · Virtual networking · Compute & autoscaling ·  
-Object storage · Managed databases · Serverless orchestration
 
-**DevOps & Automation**  
+### Infrastructure as Code
+Terraform · AWS CloudFormation · Azure Bicep  
+
+### DevOps & Automation
 GitHub Actions · CI/CD pipeline design & orchestration · Infrastructure validation workflows ·  
-Event-driven architectures · Linux · Bash · Python · Git
+Event-driven architectures · Linux · Bash · Python · Git  
 
-**Containers & Platforms**  
-Docker · Kubernetes
+### Containers & Orchestration
+Docker · Kubernetes  
 
-**Security, Observability & AI Integration**  
-Least-privilege access models · Secure storage patterns ·  
-Logging & metrics (CloudWatch, Azure Monitor, Splunk) ·  
-Event-driven AI integration using managed services
+### Security & Observability
+Least-privilege IAM design · Secure storage patterns · Logging & metrics (CloudWatch, Azure Monitor, Splunk)  
+
+### Architectural Patterns
+Identity-first access control · Network isolation · Compute autoscaling ·  
+Serverless orchestration · Managed database design  
 
 ---
 
@@ -51,11 +54,11 @@ CompTIA Security+
 
 Repositories on this profile demonstrate real-world cloud and DevOps patterns, including:
 
-- Terraform-managed cloud infrastructure
-- Event-driven serverless pipelines
-- CI/CD-enforced change control
-- Identity-first access controls
-- Operational observability and failure handling
+- Terraform-managed cloud infrastructure  
+- Event-driven serverless pipelines  
+- CI/CD-enforced change control  
+- Identity-first access controls  
+- Operational observability and failure handling  
 
 📘 Technical documentation:  
 https://medium.com/@wilmeralberto
