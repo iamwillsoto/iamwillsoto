@@ -1,47 +1,63 @@
-# Will Soto — Cloud DevOps Engineer (AWS)
+# Will Soto — Cloud DevOps Engineer
 
-Cloud DevOps Engineer building reliable, production-ready AWS infrastructure with Infrastructure as Code and CI/CD. My work focuses on event-driven architectures, environment isolation (beta → prod), and secure automation that reflects real platform team workflows.
+Cloud DevOps Engineer building reliable, production-ready cloud platforms using Infrastructure as Code and CI/CD.  
+My work emphasizes operational consistency, security-first design, and automation aligned with real platform and operations workflows.
 
-I design systems to be reproducible, observable, and operationally sound.
+I develop processes that are consistent, repeatable, and automated.
 
 ---
 
 ## About
 
-I work primarily in AWS, designing and operating cloud platforms using Terraform, serverless services, containers, and CI/CD pipelines that enforce safe change management. My projects emphasize architectural clarity, least-privilege security, and operational reliability over one-off demos.
+I design and operate cloud platforms using Terraform, serverless services, containers, and CI/CD pipelines that enforce safe change management and least-privilege security.
 
-This GitHub serves as a hands-on portfolio of production-style Cloud and DevOps implementations, each supported by documentation and architectural context.
+My engineering approach is cloud-agnostic, grounded in platform fundamentals such as identity-first access, network isolation, automated provisioning, and operational observability. These principles are applied consistently across AWS and Azure environments.
+
+This GitHub serves as a hands-on portfolio of production-style Cloud and DevOps implementations, each supported by architectural documentation and operational context.
 
 ---
 
 ## Technical Skills
 
 **Cloud & Infrastructure**  
-AWS (IAM, VPC, EC2, S3, Lambda, Step Functions, ALB/ASG, RDS, DynamoDB, CloudWatch) · Terraform · CloudFormation · Multi-environment promotion (beta → prod)
+**AWS:** IAM, VPC, EC2, S3, Lambda, Step Functions, ALB/ASG, RDS, DynamoDB, CloudWatch  
+**Azure:** Entra ID, Virtual Networks, Virtual Machines, Storage Accounts, App Services, Azure Monitor  
+Terraform · CloudFormation · Identity & access design · Virtual networking · Compute & autoscaling ·  
+Object storage · Managed databases · Serverless orchestration
 
 **DevOps & Automation**  
-GitHub Actions · CI/CD promotion gates · Event-driven/serverless workflows · Linux · Bash · Python · Git
+GitHub Actions · CI/CD pipeline design & orchestration · Infrastructure validation workflows ·  
+Event-driven architectures · Linux · Bash · Python · Git
 
 **Containers & Platforms**  
-Docker · Kubernetes fundamentals (deployments, services, configuration patterns)
+Docker · Kubernetes
 
 **Security, Observability & AI Integration**  
-Least-privilege IAM · Secure S3 access patterns · CloudWatch logging/metrics · Splunk ·  
-Amazon Bedrock integration (managed model invocation, event-driven AI workflows)
+Least-privilege access models · Secure storage patterns ·  
+Logging & metrics (CloudWatch, Azure Monitor, Splunk) ·  
+Event-driven AI integration using managed services
 
 ---
 
 ## Certifications
 
-AWS Solutions Architect – Associate · AWS SysOps Administrator – Associate · AWS AI Practitioner · CompTIA Security+
+AWS Solutions Architect – Associate  
+Microsoft Azure Administrator (AZ-104)  
+CompTIA Security+
 
 ---
 
 ## Portfolio & Documentation
 
-Repositories on this profile demonstrate real-world cloud and DevOps patterns, including Terraform-managed AWS infrastructure, event-driven pipelines, CI/CD-enforced promotion, and secure operational guardrails.
+Repositories on this profile demonstrate real-world cloud and DevOps patterns, including:
 
-📘 Long-form architectural write-ups and diagrams:  
+- Terraform-managed cloud infrastructure
+- Event-driven serverless pipelines
+- CI/CD-enforced change control
+- Identity-first access controls
+- Operational observability and failure handling
+
+📘 Technical documentation:  
 https://medium.com/@wilmeralberto
 
 ---
@@ -49,5 +65,3 @@ https://medium.com/@wilmeralberto
 ## Connect
 
 LinkedIn: https://www.linkedin.com/in/wilmeralberto
-
----
