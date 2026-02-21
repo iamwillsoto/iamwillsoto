@@ -1,10 +1,10 @@
 # Will Soto — AWS Cloud Engineer
 
-AWS Cloud Engineer architecting and operating secure, resilient, production-scale cloud infrastructure.
+AWS Cloud Engineer building and operating secure, scalable cloud infrastructure in production environments.
 
-I design AWS environments where availability, security, automation, and operational clarity are foundational — not afterthoughts. My work focuses on infrastructure lifecycle governance, identity-driven access control, scalable network architecture, and systems built to withstand real operational demand. 
+I design AWS platforms centered on automation, access control, and operational reliability. My work focuses on infrastructure clarity, resilient network design, and systems built to perform under real operational demand.
 
-This profile represents hands-on implementation and architectural ownership.
+This profile reflects hands-on implementation and architectural ownership.
 
 ---
 
@@ -12,44 +12,40 @@ This profile represents hands-on implementation and architectural ownership.
 
 I build AWS platforms that are:
 
-- Highly available by design (multi-AZ architecture, autoscaling, managed failover)
-- Secure through structured IAM policy design and permission boundaries
-- Network-segmented with deliberate public/private isolation
-- Fully automated via Terraform-based infrastructure lifecycle management
-- Observable with metrics, structured logs, and actionable alarms
-- Designed for maintainability, auditability, and long-term stability
-
-My engineering standard prioritizes durability, security posture, and operational maturity.
+- Highly available by design (multi-AZ, autoscaling, load balancing)
+- Secure through structured IAM and role-based access control
+- Network-segmented across public and private tiers
+- Automated with Terraform-managed infrastructure
+- Observable through metrics, logging, and alerting
+- Built for maintainability and operational consistency
 
 ---
 
 ## AWS Architecture & Platform Expertise
 
-### Compute & High Availability
-EC2 · Launch Templates · Auto Scaling Groups · Application Load Balancers · Multi-tier web architectures  
+### Compute
+EC2 · Launch Templates · Auto Scaling · Elastic Load Balancing  
 
-### Networking & Isolation
-VPC architecture · Subnet segmentation · Route tables · NAT gateways · Security groups · NACL strategy  
+### Networking
+VPC · Subnets · Route Tables · NAT Gateways · Security Groups · NACLs  
 
-### Identity & Governance
-IAM policy architecture · Role assumption models · Permission boundaries · Cross-account access strategy · AWS Organizations  
+### Identity & Access
+IAM · RBAC · Role Assumption  
 
 ### Data & Storage
-S3 secure storage patterns · RDS high-availability deployments · DynamoDB · Backup and lifecycle policies  
+S3 · RDS · DynamoDB · KMS  
 
-### Serverless & Event-Driven Systems
-Lambda · Step Functions · EventBridge · Distributed workflow orchestration  
+### Serverless
+Lambda · Step Functions · EventBridge  
 
-### Observability & Operations
-CloudWatch metrics & alarms · Structured logging · Monitoring strategy · Operational health validation  
+### Observability
+CloudWatch · CloudTrail · AWS Config  
 
 ---
 
 ## Infrastructure & Automation
 
-Terraform (modular architecture, remote state governance, environment separation)  
-AWS CloudFormation  
-CI/CD pipeline design and enforcement (GitHub Actions)  
+Terraform · AWS CloudFormation · GitHub Actions  
 Linux · Bash · Python · Git  
 
 ---
@@ -71,17 +67,17 @@ Docker · Kubernetes
 
 ---
 
-## Portfolio Scope
+## Portfolio
 
 Repositories on this profile demonstrate:
 
-- Production-grade ALB + Auto Scaling infrastructure
-- Terraform-managed AWS environments with remote state governance
-- IAM boundary and policy architecture
-- Serverless orchestration pipelines
-- Monitoring, alerting, and operational validation workflows
+- Load-balanced and autoscaling AWS infrastructure  
+- Terraform-managed environments  
+- IAM policy design and access control  
+- Serverless workflows  
+- Monitoring and logging implementations  
 
-Each project reflects architectural intent, secure design decisions, and operational accountability.
+Infrastructure built with clarity, security, and operational consistency.
 
 ---
 
