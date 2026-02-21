@@ -1,70 +1,91 @@
-# Will Soto — Cloud DevOps Engineer
+# Will Soto — AWS Cloud Engineer
 
-Cloud DevOps Engineer building reliable, production-ready cloud platforms using Infrastructure as Code and CI/CD.  
-My work emphasizes operational consistency, security-first design, and automation aligned with real platform and operations workflows.
+AWS Cloud Engineer architecting and operating secure, resilient, production-scale cloud infrastructure.
 
-I develop processes that are consistent, repeatable, and automated.
+I design AWS environments where availability, security, automation, and operational clarity are foundational — not afterthoughts. My work focuses on infrastructure lifecycle governance, identity-driven access control, scalable network architecture, and systems built to withstand real operational demand.
 
----
-
-## About
-
-I design and operate cloud platforms using Terraform, serverless services, containers, and CI/CD pipelines that enforce safe change management and least-privilege security.
-
-My engineering approach is cloud-agnostic, grounded in platform fundamentals such as identity-first access, network isolation, automated provisioning, and operational observability. These principles are applied consistently across AWS and Azure environments.
-
-This GitHub serves as a hands-on portfolio of production-style Cloud and DevOps implementations, supported by technical documentation and architectural context.
+This profile represents hands-on implementation and architectural ownership.
 
 ---
 
-## Technical Skills
+## Engineering Approach
 
-### Cloud Platforms
-**AWS:** IAM, VPC, EC2, S3, Lambda, Step Functions, ALB/ASG, RDS, DynamoDB, CloudWatch  
-**Azure:** Entra ID, Virtual Networks, Virtual Machines, Storage Accounts, App Services, Azure Monitor  
+I build AWS platforms that are:
 
-### Infrastructure as Code
-Terraform · AWS CloudFormation · Azure Bicep  
+- Highly available by design (multi-AZ architecture, autoscaling, managed failover)
+- Secure through structured IAM policy design and permission boundaries
+- Network-segmented with deliberate public/private isolation
+- Fully automated via Terraform-based infrastructure lifecycle management
+- Observable with metrics, structured logs, and actionable alarms
+- Designed for maintainability, auditability, and long-term stability
 
-### DevOps & Automation
-GitHub Actions · CI/CD pipeline design & orchestration · Infrastructure validation workflows ·  
-Event-driven architectures · Linux · Bash · Python · Git  
+My engineering standard prioritizes durability, security posture, and operational maturity.
 
-### Containers & Orchestration
+---
+
+## AWS Architecture & Platform Expertise
+
+### Compute & High Availability
+EC2 · Launch Templates · Auto Scaling Groups · Application Load Balancers · Multi-tier web architectures  
+
+### Networking & Isolation
+VPC architecture · Subnet segmentation · Route tables · NAT gateways · Security groups · NACL strategy  
+
+### Identity & Governance
+IAM policy architecture · Role assumption models · Permission boundaries · Cross-account access strategy · AWS Organizations  
+
+### Data & Storage
+S3 secure storage patterns · RDS high-availability deployments · DynamoDB · Backup and lifecycle policies  
+
+### Serverless & Event-Driven Systems
+Lambda · Step Functions · EventBridge · Distributed workflow orchestration  
+
+### Observability & Operations
+CloudWatch metrics & alarms · Structured logging · Monitoring strategy · Operational health validation  
+
+---
+
+## Infrastructure & Automation
+
+Terraform (modular architecture, remote state governance, environment separation)  
+AWS CloudFormation  
+CI/CD pipeline design and enforcement (GitHub Actions)  
+Linux · Bash · Python · Git  
+
+---
+
+## Containers & Platform Engineering
+
 Docker · Kubernetes  
-
-### Security & Observability
-Least-privilege IAM design · Secure storage patterns · Logging & metrics (CloudWatch, Azure Monitor, Splunk)  
-
-### Architectural Patterns
-Identity-first access control · Network isolation · Compute autoscaling ·  
-Serverless orchestration · Managed database design  
 
 ---
 
 ## Certifications
 
-AWS Solutions Architect – Associate  
-Microsoft Azure Administrator (AZ-104)  
-CompTIA Security+
+- AWS Certified Solutions Architect – Associate  
+- AWS Certified SysOps Administrator – Associate  
+- AWS Certified AI Practitioner  
+- CompTIA Security+  
+- CompTIA Network+  
+- Linux Essentials (LPI)  
 
 ---
 
-## Portfolio & Documentation
+## Portfolio Scope
 
-Repositories on this profile demonstrate real-world cloud and DevOps patterns, including:
+Repositories on this profile demonstrate:
 
-- Terraform-managed cloud infrastructure  
-- Event-driven serverless pipelines  
-- CI/CD-enforced change control  
-- Identity-first access controls  
-- Operational observability and failure handling  
+- Production-grade ALB + Auto Scaling infrastructure
+- Terraform-managed AWS environments with remote state governance
+- IAM boundary and policy architecture
+- Serverless orchestration pipelines
+- Monitoring, alerting, and operational validation workflows
 
-📘 Technical documentation:  
-https://medium.com/@wilmeralberto
+Each project reflects architectural intent, secure design decisions, and operational accountability.
 
 ---
 
 ## Connect
 
-LinkedIn: https://www.linkedin.com/in/wilmeralberto
+LinkedIn: https://www.linkedin.com/in/wilmeralberto  
+Technical Writing: https://medium.com/@wilmeralberto
