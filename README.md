@@ -2,7 +2,7 @@
 
 AWS Cloud Engineer architecting and operating secure, resilient, production-scale cloud infrastructure.
 
-I design AWS environments where availability, security, automation, and operational clarity are foundational — not afterthoughts. My work focuses on infrastructure lifecycle governance, identity-driven access control, scalable network architecture, and systems built to withstand real operational demand.
+I design AWS environments where availability, security, automation, and operational clarity are foundational — not afterthoughts. My work focuses on infrastructure lifecycle governance, identity-driven access control, scalable network architecture, and systems built to withstand real operational demand. 
 
 This profile represents hands-on implementation and architectural ownership.
 
