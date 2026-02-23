@@ -4,7 +4,7 @@ AWS Cloud Engineer building and operating secure, scalable cloud infrastructure 
 
 I design AWS platforms centered on automation, access control, and operational reliability. My work focuses on infrastructure clarity, resilient network design, and systems built to perform under real operational demand.
 
-This profile reflects hands-on implementation and architectural ownership.
+This profile reflects hands-on implementation and architectural ownership. 
 
 ---
 
