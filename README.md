@@ -58,9 +58,9 @@ Docker · Kubernetes
 
 ## Certifications
 
-- AWS Certified Solutions Architect – Associate  
-- AWS Certified SysOps Administrator – Associate  
-- AWS Certified AI Practitioner  
+- AWS Certified Solutions Architect – Associate    
+- AWS Certified AI Practitioner
+- Microsoft Certified: Azure Administrator Associate (AZ-104) 
 - CompTIA Security+  
 - CompTIA Network+  
 - Linux Essentials (LPI)  
