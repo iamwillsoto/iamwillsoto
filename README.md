@@ -1,9 +1,9 @@
-# Will Soto — Cloud Infrastructure Engineer
+# Will Soto — AWS Cloud Engineer
 
-Cloud Infrastructure Engineer designing and operating enterprise AWS environments
-with a focus on network segmentation, Terraform-governed change, and production-grade
-security controls. I build audit-ready, drift-controlled platforms engineered for
-reliability at scale.
+AWS Cloud Engineer designing and operating enterprise AWS environments with a
+focus on network segmentation, Terraform-governed change, and production-grade
+security controls. I build audit-ready, drift-controlled platforms engineered
+for reliability at scale.
 
 ---
 
