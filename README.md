@@ -2,8 +2,8 @@
 
 AWS Cloud Engineer designing and operating enterprise AWS environments with a
 focus on network segmentation, Terraform-governed change, and production-grade
-security controls. I build audit-ready, drift-controlled platforms engineered
-for reliability at scale.
+security controls. I build and run audit-ready, drift-controlled platforms
+engineered for reliability at scale.
 
 ---
 
@@ -11,11 +11,11 @@ for reliability at scale.
 
 I build AWS platforms that are:
 - Segmented by design — multi-VPC architecture with Transit Gateway centralized routing and controlled east-west traffic
-- Governed through IaC — Terraform-managed convergence, no manual drift
+- Governed through IaC — Terraform-managed convergence with AWS Config rule validation, no manual drift
 - Identity-bounded — least-privilege IAM hierarchies, RBAC enforcement, and blast-radius containment
-- Observable — metrics, structured logging, and alerting across all environments
+- Observable — CloudWatch alarm strategy, VPC Flow Logs, EventBridge, and Splunk-integrated alerting across all environments
 - Audit-ready — compliance visibility through GuardDuty, Security Hub, and AWS Config
-- Highly available — multi-AZ, autoscaling, and controlled change execution by default
+- Highly available — multi-AZ, autoscaling, scaling policy optimization, and controlled change execution by default
 
 ---
 
@@ -39,8 +39,8 @@ GuardDuty · Security Hub · AWS Config · AWS WAF · AWS Inspector
 ### Serverless & Event-Driven
 Lambda · EventBridge · API Gateway · Step Functions
 
-### Observability
-CloudWatch · CloudTrail · Datadog · Prometheus · Grafana · Splunk
+### Observability & Operations
+CloudWatch · VPC Flow Logs · CloudTrail · Datadog · Prometheus · Grafana · Splunk
 
 ---
 
@@ -68,9 +68,9 @@ Event-driven AI pipelines integrated into governed AWS infrastructure environmen
 ## Certifications
 
 - AWS Certified Solutions Architect – Associate
+- AWS Certified SysOps Administrator – Associate
 - AWS Certified AI Practitioner
-- Microsoft Certified: Azure Solutions Architect Expert (AZ-305) — Expected 2026
-- Microsoft Certified: Azure Administrator Associate (AZ-104)
+- AWS Certified Security – Specialty (Expected)
 - CompTIA Security+
 - CompTIA Network+
 - Linux Essentials (LPI)
@@ -81,11 +81,11 @@ Event-driven AI pipelines integrated into governed AWS infrastructure environmen
 
 Repositories on this profile demonstrate:
 - Multi-VPC network architecture with Transit Gateway routing and environment segmentation
-- Terraform-governed infrastructure with remote state and controlled environment isolation
+- Terraform-governed infrastructure with remote state, AWS Config validation, and controlled environment isolation
 - IAM role hierarchy design and least-privilege access enforcement
+- CloudWatch alarm strategy, scaling policy design, and operational monitoring patterns
 - Event-driven serverless systems and AI-integrated infrastructure pipelines
 - Compliance automation and audit-ready evidence generation
-- Monitoring and alerting patterns for production environments
 
 Infrastructure built with governance, reliability, and operational ownership.
 
