@@ -1,87 +1,98 @@
-# Will Soto — AWS Cloud Engineer
+# Will Soto — Cloud Infrastructure Engineer
 
-AWS Cloud Engineer building and operating secure, scalable cloud infrastructure in production environments.
-
-I design AWS platforms centered on automation, access control, and operational reliability. My work focuses on infrastructure clarity, resilient network design, and systems built to perform under real operational demand.
-
-This profile reflects hands-on implementation and architectural ownership. 
+Cloud Infrastructure Engineer designing and operating enterprise AWS environments
+with a focus on network segmentation, Terraform-governed change, and production-grade
+security controls. I build audit-ready, drift-controlled platforms engineered for
+reliability at scale.
 
 ---
 
 ## Engineering Approach
 
 I build AWS platforms that are:
-
-- Highly available by design (multi-AZ, autoscaling, load balancing)
-- Secure through structured IAM and role-based access control
-- Network-segmented across public and private tiers
-- Automated with Terraform-managed infrastructure
-- Observable through metrics, logging, and alerting
-- Built for maintainability and operational consistency
+- Segmented by design — multi-VPC architecture with Transit Gateway centralized routing and controlled east-west traffic
+- Governed through IaC — Terraform-managed convergence, no manual drift
+- Identity-bounded — least-privilege IAM hierarchies, RBAC enforcement, and blast-radius containment
+- Observable — metrics, structured logging, and alerting across all environments
+- Audit-ready — compliance visibility through GuardDuty, Security Hub, and AWS Config
+- Highly available — multi-AZ, autoscaling, and controlled change execution by default
 
 ---
 
-## AWS Architecture & Platform Expertise
+## AWS Infrastructure & Platform Expertise
 
-### Compute
-EC2 · Launch Templates · Auto Scaling · Elastic Load Balancing  
+### Networking & Routing
+VPC · Transit Gateway · Subnets · Route Tables · NAT Gateway · Security Groups · NACLs · Route 53
 
-### Networking
-VPC · Subnets · Route Tables · NAT Gateways · Security Groups · NACLs  
+### Compute & Scaling
+EC2 · Launch Templates · Auto Scaling · Elastic Load Balancing
 
-### Identity & Access
-IAM · RBAC · Role Assumption  
+### Identity & Governance
+IAM · RBAC · Permission Boundaries · KMS · Secrets Manager
 
 ### Data & Storage
-S3 · RDS · DynamoDB · KMS  
+RDS (Multi-AZ) · DynamoDB · S3
 
-### Serverless
-Lambda · Step Functions · EventBridge  
+### Security & Compliance
+GuardDuty · Security Hub · AWS Config · AWS WAF · AWS Inspector
+
+### Serverless & Event-Driven
+Lambda · EventBridge · API Gateway · Step Functions
 
 ### Observability
-CloudWatch · CloudTrail · AWS Config  
+CloudWatch · CloudTrail · Datadog · Prometheus · Grafana · Splunk
 
 ---
 
-## Infrastructure & Automation
+## Infrastructure as Code & Automation
 
-Terraform · AWS CloudFormation · GitHub Actions  
-Linux · Bash · Python · Git  
+Terraform (Cloud & Remote State) · CloudFormation · Ansible · Packer
+GitHub Actions · Jenkins · Python (Boto3) · Bash · PowerShell · Linux
 
 ---
 
-## Containers & Platform Engineering
+## Containers & Compute
 
-Docker · Kubernetes  
+Docker · Docker Swarm · Amazon ECS · Kubernetes
+
+---
+
+## AI-Integrated Infrastructure
+
+Amazon Bedrock · Rekognition · Transcribe · Translate · Polly
+
+Event-driven AI pipelines integrated into governed AWS infrastructure environments.
 
 ---
 
 ## Certifications
 
-- AWS Certified Solutions Architect – Associate    
+- AWS Certified Solutions Architect – Associate
 - AWS Certified AI Practitioner
-- Microsoft Certified: Azure Administrator Associate (AZ-104) 
-- CompTIA Security+  
-- CompTIA Network+  
-- Linux Essentials (LPI)  
+- Microsoft Certified: Azure Solutions Architect Expert (AZ-305) — Expected 2026
+- Microsoft Certified: Azure Administrator Associate (AZ-104)
+- CompTIA Security+
+- CompTIA Network+
+- Linux Essentials (LPI)
 
 ---
 
 ## Portfolio
 
 Repositories on this profile demonstrate:
+- Multi-VPC network architecture with Transit Gateway routing and environment segmentation
+- Terraform-governed infrastructure with remote state and controlled environment isolation
+- IAM role hierarchy design and least-privilege access enforcement
+- Event-driven serverless systems and AI-integrated infrastructure pipelines
+- Compliance automation and audit-ready evidence generation
+- Monitoring and alerting patterns for production environments
 
-- Load-balanced and autoscaling AWS infrastructure  
-- Terraform-managed environments  
-- IAM policy design and access control  
-- Serverless workflows  
-- Monitoring and logging implementations  
-
-Infrastructure built with clarity, security, and operational consistency.
+Infrastructure built with governance, reliability, and operational ownership.
 
 ---
 
 ## Connect
 
-LinkedIn: https://www.linkedin.com/in/wilmeralberto  
+LinkedIn: https://www.linkedin.com/in/wilmeralberto
 Technical Writing: https://medium.com/@wilmeralberto
+Resume: https://willsoto.cloud
