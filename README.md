@@ -1,4 +1,4 @@
-# Will Soto — AWS Cloud Engineer
+# Will A. Soto — AWS Cloud Engineer
 
 AWS Cloud Engineer designing and operating enterprise AWS environments with a
 focus on network segmentation, Terraform-governed change, and production-grade
