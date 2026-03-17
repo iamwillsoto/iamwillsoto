@@ -1,21 +1,19 @@
-# Will A. Soto — AWS Cloud Engineer
+# Will A. Soto — AWS Cloud Engineer | AWS Community Builder | US Navy Veteran
 
-AWS Cloud Engineer designing and operating enterprise AWS environments with a
-focus on network segmentation, Terraform-governed change, and production-grade
-security controls. I build and run audit-ready, drift-controlled platforms
-engineered for reliability at scale.
+AWS Cloud Engineer designing and operating enterprise AWS platforms with a focus on network segmentation, Terraform-driven infrastructure, and production-grade CI/CD automation. I build secure, highly available, audit-ready environments engineered for governance, reliability, and operational control at scale.
 
 ---
 
 ## Engineering Approach
 
 I build AWS platforms that are:
-- Segmented by design — multi-VPC architecture with Transit Gateway centralized routing and controlled east-west traffic
-- Governed through IaC — Terraform-managed convergence with AWS Config rule validation, no manual drift
-- Identity-bounded — least-privilege IAM hierarchies, RBAC enforcement, and blast-radius containment
-- Observable — CloudWatch alarm strategy, VPC Flow Logs, EventBridge, and Splunk-integrated alerting across all environments
-- Audit-ready — compliance visibility through GuardDuty, Security Hub, and AWS Config
-- Highly available — multi-AZ, autoscaling, scaling policy optimization, and controlled change execution by default
+
+- **Segmented by design** — multi-VPC architecture with Transit Gateway centralized routing and controlled east-west traffic
+- **Governed through IaC** — Terraform-managed convergence with AWS Config rule validation and minimal manual drift
+- **Identity-bounded** — least-privilege IAM hierarchies, RBAC enforcement, and blast-radius containment
+- **Observable** — CloudWatch alarm strategy, VPC Flow Logs, EventBridge, and Splunk-integrated alerting across environments
+- **Audit-ready** — compliance visibility through GuardDuty, Security Hub, AWS Config, and automated evidence generation
+- **Highly available** — multi-AZ design, autoscaling, scaling policy optimization, and controlled change execution by default
 
 ---
 
@@ -46,12 +44,11 @@ CloudWatch · VPC Flow Logs · CloudTrail · Datadog · Prometheus · Grafana ·
 
 ## Infrastructure as Code & Automation
 
-Terraform (Cloud & Remote State) · CloudFormation · Ansible · Packer
-GitHub Actions · Jenkins · Python (Boto3) · Bash · PowerShell · Linux
+Terraform (Cloud & Remote State) · CloudFormation · GitHub Actions · Jenkins · Python (Boto3) · Bash · PowerShell · Linux
 
 ---
 
-## Containers & Compute
+## Containers & Orchestration
 
 Docker · Docker Swarm · Amazon ECS · Kubernetes
 
@@ -61,26 +58,27 @@ Docker · Docker Swarm · Amazon ECS · Kubernetes
 
 Amazon Bedrock · Rekognition · Transcribe · Translate · Polly
 
-Event-driven AI pipelines integrated into governed AWS infrastructure environments.
+I build event-driven AI workflows that integrate into governed AWS environments without losing focus on core infrastructure reliability, automation, and operational control.
 
 ---
 
-## Certifications
+## Certifications & Recognition
 
 - AWS Certified Solutions Architect – Associate
 - AWS Certified SysOps Administrator – Associate
 - AWS Certified AI Practitioner
-- AWS Certified Security – Specialty (Expected)
 - CompTIA Security+
 - CompTIA Network+
 - Linux Essentials (LPI)
+- AWS Community Builder
 
 ---
 
-## Portfolio
+## Portfolio Focus
 
 Repositories on this profile demonstrate:
-- Multi-VPC network architecture with Transit Gateway routing and environment segmentation
+
+- Multi-VPC AWS architecture with Transit Gateway routing and environment segmentation
 - Terraform-governed infrastructure with remote state, AWS Config validation, and controlled environment isolation
 - IAM role hierarchy design and least-privilege access enforcement
 - CloudWatch alarm strategy, scaling policy design, and operational monitoring patterns
@@ -93,6 +91,6 @@ Infrastructure built with governance, reliability, and operational ownership.
 
 ## Connect
 
-LinkedIn: https://www.linkedin.com/in/wilmeralberto
-Technical Writing: https://medium.com/@wilmeralberto
-Resume: https://willsoto.cloud
+- **LinkedIn:** [linkedin.com/in/iamwillsoto](https://www.linkedin.com/in/iamwillsoto)
+- **Technical Writing:** [medium.com/@wilmeralberto](https://medium.com/@wilmeralberto)
+- **Resume:** [Live Resume](https://ai-resume-iamwillsoto.s3.amazonaws.com/prod/index.html)
