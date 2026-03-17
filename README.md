@@ -1,4 +1,4 @@
-# Will A. Soto — AWS Cloud Engineer | AWS Community Builder | US Navy Veteran
+# Will A. Soto — AWS Cloud Engineer
 
 AWS Cloud Engineer designing and operating enterprise AWS platforms with a focus on network segmentation, Terraform-driven infrastructure, and production-grade CI/CD automation. I build secure, highly available, audit-ready environments engineered for governance, reliability, and operational control at scale.
 
