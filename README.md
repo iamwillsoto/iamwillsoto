@@ -67,7 +67,6 @@ Event-driven AI workflows integrated into governed AWS environments.
 - AWS Certified AI Practitioner
 - CompTIA Security+
 - CompTIA Network+
-- Linux Essentials (LPI)
 - AWS Community Builder
 
 ---
