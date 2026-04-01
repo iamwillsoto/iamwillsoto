@@ -1,24 +1,24 @@
 # Will A. Soto — AWS Cloud Engineer
 
-AWS Cloud Engineer specializing in enterprise AWS platforms, Terraform-driven infrastructure, and production-grade CI/CD automation. I design and operate secure, highly available environments built for governance, reliability, and operational control at scale.
+AWS Cloud Engineer specializing in secure, scalable, and cost-effective AWS infrastructure, Terraform-driven automation, and production-grade CI/CD workflows. I build and operate cloud environments focused on security, reliability, governance, and operational consistency.
 
 ---
 
-## Engineering Approach
+## Core Focus
 
-- **Segmented by design** — multi-VPC architecture with Transit Gateway centralized routing and controlled east-west traffic
-- **Governed through IaC** — Terraform-managed convergence with AWS Config validation and drift remediation
-- **Identity-bounded** — least-privilege IAM hierarchies, RBAC enforcement, and blast-radius containment
-- **Audit-ready** — compliance visibility through GuardDuty, Security Hub, and automated evidence generation
-- **Observable** — CloudWatch alarm strategy, VPC Flow Logs, EventBridge, and Splunk-integrated alerting
-- **Highly available** — multi-AZ design, autoscaling, and controlled change execution by default
+- **AWS infrastructure** — VPC design, EC2, load balancing, Auto Scaling, Route 53, and multi-tier cloud architecture
+- **Infrastructure as code** — Terraform and CloudFormation for repeatable, governed deployments
+- **CI/CD automation** — GitHub Actions, Jenkins, and structured release workflows
+- **Security and governance** — IAM, KMS, AWS Config, GuardDuty, Inspector, and least-privilege access design
+- **Observability** — CloudWatch, CloudTrail, VPC Flow Logs, Datadog, Prometheus, Grafana, and Splunk
+- **Operational reliability** — multi-AZ design, automated scaling, monitoring, and controlled change execution
 
 ---
 
 ## Platform Expertise
 
 ### Networking & Routing
-VPC · Transit Gateway · Route Tables · NAT Gateway · Security Groups · NACLs · Route 53
+VPC · Route Tables · NAT Gateway · Security Groups · NACLs · Route 53 · Transit Gateway
 
 ### Compute & Scaling
 EC2 · Launch Templates · Auto Scaling · Elastic Load Balancing
@@ -27,7 +27,7 @@ EC2 · Launch Templates · Auto Scaling · Elastic Load Balancing
 IAM · RBAC · Permission Boundaries · KMS · Secrets Manager
 
 ### Data & Storage
-RDS (Multi-AZ) · DynamoDB · S3
+RDS · DynamoDB · S3
 
 ### Security & Compliance
 GuardDuty · Security Hub · AWS Config · AWS WAF · AWS Inspector
@@ -36,27 +36,27 @@ GuardDuty · Security Hub · AWS Config · AWS WAF · AWS Inspector
 Lambda · EventBridge · API Gateway · Step Functions
 
 ### Observability
-CloudWatch · VPC Flow Logs · CloudTrail · Datadog · Prometheus · Grafana · Splunk
+CloudWatch · CloudTrail · VPC Flow Logs · Datadog · Prometheus · Grafana · Splunk
 
 ---
 
 ## Infrastructure as Code & Automation
 
-Terraform (Cloud & Remote State) · CloudFormation · GitHub Actions · Jenkins · Python (Boto3) · Bash · PowerShell · Linux
+Terraform · CloudFormation · GitHub Actions · Jenkins · Python (Boto3) · Bash · PowerShell · Linux
 
 ---
 
 ## Containers & Orchestration
 
-Docker · Docker Swarm · Amazon ECS · Kubernetes
+Docker · Amazon ECS · Kubernetes · Docker Swarm
 
 ---
 
-## AI-Integrated Infrastructure
+## AI on AWS
 
 Amazon Bedrock · Rekognition · Transcribe · Translate · Polly
 
-Event-driven AI workflows integrated into governed AWS environments.
+Built around event-driven workflows and production-oriented AWS architecture.
 
 ---
 
