@@ -2,7 +2,7 @@
 
 Cloud Engineer and U.S. Navy veteran focused on secure cloud infrastructure, infrastructure as code, DevOps automation, containerized platforms, observability, and operational reliability across AWS and Azure.
 
-I design, automate, and support production-style cloud environments using virtual networking, identity governance, CI/CD pipelines, Kubernetes, Docker, monitoring platforms, and secure infrastructure patterns. My work centers on scalable deployments, reliable operations, repeatable automation, cost optimization, and enterprise-ready security controls.
+I design, automate, and support production-style cloud environments using cloud networking, identity governance, CI/CD pipelines, Kubernetes, Docker, monitoring platforms, and secure infrastructure patterns. My work centers on scalable deployments, reliable operations, repeatable automation, cost optimization, and enterprise-ready security controls.
 
 ---
 
@@ -24,20 +24,23 @@ I design, automate, and support production-style cloud environments using virtua
 ### Cloud Platforms
 AWS · Microsoft Azure
 
-### Infrastructure & Networking
-VPC · VNet · Subnets · Route Tables · NAT Gateway · Load Balancers · Route 53 · DNS · Security Groups · NACLs · Firewalls
+### Infrastructure as Code
+Terraform · CloudFormation · Ansible
 
-### Compute & Scaling
-EC2 · Azure Virtual Machines · Auto Scaling · Elastic Load Balancing · Amazon ECS · Amazon EKS · Kubernetes
+### Networking
+VPC · VNet · Subnets · Route Tables · NAT Gateway · Route 53 · DNS · Security Groups · NACLs · Firewalls
+
+### Compute & Containers
+EC2 · Azure Virtual Machines · Auto Scaling · Elastic Load Balancing · Docker · Kubernetes · Amazon ECS · Amazon EKS
 
 ### Identity & Security
 IAM · RBAC · MFA · KMS · Secrets Manager · GuardDuty · AWS WAF · Zero-Trust Architecture
 
 ### Data, Storage & Recovery
-Amazon S3 · Azure Storage · Azure Blob Storage · Amazon RDS · DynamoDB · Backup & Recovery · Disaster Recovery
+Amazon S3 · Azure Blob Storage · Amazon RDS · DynamoDB · Backup & Recovery · Disaster Recovery
 
-### CI/CD & Automation
-Terraform · CloudFormation · Ansible · Jenkins · GitHub Actions · GitLab CI · Git · Bitbucket
+### CI/CD & Version Control
+Jenkins · GitHub Actions · GitLab CI · Git · Bitbucket
 
 ### Monitoring & Reliability
 CloudWatch · Prometheus · Grafana · Splunk · ELK Stack · Datadog · High Availability · Performance Optimization · Cost Optimization
